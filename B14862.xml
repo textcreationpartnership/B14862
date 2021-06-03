@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at S. Martins Church in the Fields At the funerall of the Lady Blount, the 6. day of December, An. Dom. 1619.</title>
+            <author>Mountford, Thomas, d. 1632.</author>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14862</idno><idno type="EEBO-CITATION">99849562</idno>
+  <idno type="VID">14717</idno>
+  <idno type="EEBO-PROQUEST">2264177939</idno>
+  <idno type="STC">STC 18226</idno>
+  <idno type="STC">ESTC S114336</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99849562e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 14717)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 700:03, 1524:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at S. Martins Church in the Fields At the funerall of the Lady Blount, the 6. day of December, An. Dom. 1619.</title>
+                  <author>Mountford, Thomas, d. 1632.</author>
+               </titleStmt>
+               <extent>[2], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop for Iohn Hodgets,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1620.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Thomas Mountford.</note>
+                  <note>Formerly also STC 3135.</note>
+                  <note>Identified as STC 3135 on UMI microfilm reel 700.</note>
+                  <note>Print faded and show-through.</note>
+                  <note>Reproductions of the originals in the Cambridge University Library and the Bodleian Library.</note>
+                  <note>Appears at reel 700 (Cambridge University Library copy) and at reel 1524 (Bodleian Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:14717:1"/>
+            <pb facs="tcp:14717:1"/>
+            <p>A SERMON PREACHED AT S. MARTINS Church in the Fields.</p>
+            <p>AT THE FVNERALL of the Lady <hi>Blount,</hi> the 6. day of December, <hi>An. Dom.</hi> 1619.</p>
+            <p>LONDON, Printed by <hi>Bernard Alsop</hi> for <hi>Iohn Hodgets.</hi> 1620.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:14717:2"/>
+            <pb n="1" facs="tcp:14717:2"/>
+            <head>A SERMON PREACHED AT S. <hi>Martins</hi> in the <hi>Fields.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>EL-BELOVED in Christ Iesus, here are two Obiects presented before you; the one, vnto your eyes, the other, tendred vnto your eares: the one, the sad spectacle of Death, which is the state of Desolation, (if we consider it in it selfe;) the other, is the Word of Life, which
+<pb n="2" facs="tcp:14717:3"/>is and ought to be our speciall consolation and comfort against Death: For the performance whereof, albeit some perhaps ex<g ref="char:EOLhyphen"/>pect, that I should speake of Death Naturall, and Resurrection Corporall; yet I haue thought good rather (vpon some speci<g ref="char:EOLhyphen"/>all Occasion) to make choice of a Text that speaketh of Life Spi<g ref="char:EOLhyphen"/>rituall, and of the first Resurrecti<g ref="char:EOLhyphen"/>on, which Saint <hi>Iohn</hi> speaketh of in the twentieth Chapter of his <hi>Reuelation;</hi> where hee sayth: <hi>Blessed and holy is hee,</hi>
+               <note place="margin">Apocal. 20.6.</note>
+               <hi>that hath part of the first Resurrection, for on such the second Death hath no power.</hi>
+            </p>
+            <p>Concerning this first Resur<g ref="char:EOLhyphen"/>rection, I haue chosen for my, Text an Example taken out of the fourth of Saint <hi>Iohns</hi> Gospell, the nineteenth, twentieth, and one and twentieth Verses, which is the Text I meane to speake briefely of. The words are these:
+<pb n="3" facs="tcp:14717:3"/>
+               <q>
+                  <bibl>
+                     <hi>Iohn 4.19, 20, 21.</hi>
+                  </bibl>
+                  <p>The Woman said vnto him: Sir, I see that thou art a Prophet.</p>
+                  <p>Our fathers worshipped in this Moun<g ref="char:EOLhyphen"/>taine; and ye say, that in Ierusa<g ref="char:EOLhyphen"/>lem is the place where men ought to worship.</p>
+                  <p>Iesus said vnto her: Woman, beleeue me, the houre commeth, when ye shall neither in this Mountaine, nor at Ierusalem, worship the Father.</p>
+               </q>
+            </p>
+            <p>IN these words are contayned part of a Dialogue,
+<note place="margin">Three Degrees tending to the conuersion of the Samaritan.</note> or Dispute betweene our Sauiour Iesus Christ, and this same Conuert of Samaria. In the Woman of Samaria, we are to consider three Degrees, whereby she was brought to Conuersion: two whereof are contayned in her words, in the first place; and the third, in the answer of our Sauiour Iesus Christ vnto her question.</p>
+            <p n="1">
+               <pb n="4" facs="tcp:14717:4"/> 1. The first Degree, is the dimme sight she had of the Propheticall Office of Iesus Christ, contayned in these words: <hi>The Woman said vnto him; Sir, I perceiue that thou art a Prophet.</hi>
+            </p>
+            <p n="2">2. The second contayneth her care of true Religion, vnder a darke Cloud of an Obiection she made to our Sauiour Iesus Christ, concerning the manner of the Worship of God, in these words: <hi>Our Fathers worshipped in this Mountaine; and ye say, that in Ierusalem is the place where men ought to worship.</hi>
+            </p>
+            <p n="3">3. The third sheweth her Re<g ref="char:EOLhyphen"/>solution, in the words of our Sa<g ref="char:EOLhyphen"/>uiour Iesus Christ, and his answer to the former Obiection, wherein no doubt she rested; expressed in these words: <hi>Iesus said vnto her; Woman, beleeue me, the houre com<g ref="char:EOLhyphen"/>meth, when ye shall neither in this Mountaine, nor at Ierusalem, wor<g ref="char:EOLhyphen"/>ship the Father.</hi>
+            </p>
+            <pb n="5" facs="tcp:14717:4"/>
+            <p> These are the three degrees wher<g ref="char:EOLhyphen"/>by it pleaseth the wisedome of the holy Spirit of God to bring this woman to a more full resolution of true Religion; first concerning the first: I meane to bee briefe in all.</p>
+            <p n="1">1 In the first degree we are to consider three things, a compellati<g ref="char:EOLhyphen"/>on of reuerence, where she calleth him, <hi>Sir.</hi>
+            </p>
+            <p n="2">2 Secondly, an apprehension of intelligence, in these words, when she saith: <hi>I see and perceiue.</hi>
+            </p>
+            <p n="3">3 Thirdly, a confession of his office propheticall: <hi>I perceiue thou art a Prophet.</hi>
+            </p>
+            <p>First, concerning the first, in that she honoured Iesus Christ, that had reproued her before in the prece<g ref="char:EOLhyphen"/>dent part of this Text, <hi>Chrysostome</hi> noteth, That she shewed much wis<g ref="char:EOLhyphen"/>dome and a notable example for all men and women to follow; that though they be reproued for error, yet notwithstanding, they should
+<pb n="6" facs="tcp:14717:5"/>not take it grieuously, they should not goe away discontentedly: as <hi>Chrysostome</hi> saith. This woman did not goe away in anger, nor did she vse any contumelious or re<g ref="char:EOLhyphen"/>proachfull speech against our Saui<g ref="char:EOLhyphen"/>our: but rather honoured him, and said; <hi>Sir, I perceiue thou art a Pro<g ref="char:EOLhyphen"/>phet.</hi> Hard it is to beare reprehen<g ref="char:EOLhyphen"/>sion, though neuer so iustly deser<g ref="char:EOLhyphen"/>ued; and more difficult, to giue honour to the reprehender: but this woman doth both; she taketh this admonition in good part, and giueth honour to Christ.</p>
+            <p>Concerning the second part of her apprehension, in vnderstan<g ref="char:EOLhyphen"/>ding; she saith, <hi>I see thou art a Pro<g ref="char:EOLhyphen"/>phet:</hi> this is referred (as Diuines say) not to the sight of the body, but of the minde; she saw no more in the body, before faith, then this, That Iesus was a Iew: for when Christ did aske to drinke of the water she came to draw, she then answered in scorne and disdaine;
+<pb n="7" facs="tcp:14717:5"/>
+               <hi>How commeth it to passe, that thou being a Iew, doest aske drinke of me a Samaritan?</hi> She doth dis<g ref="char:EOLhyphen"/>daine him; for there was no good correspondency betweene the Iewes and the Samaritans, as ap<g ref="char:EOLhyphen"/>peareth in the ninth verse of this Chapter: for the Samaritans were a schismaticall kinde of people; they would in prosperity take part with the Iewes, and be of their kindred: but in time of aduersity, either re<g ref="char:EOLhyphen"/>linquish, or stand against them.</p>
+            <p>This Samaritan, Christ made a true Christian; therefore she ought to be an example, not to persist ob<g ref="char:EOLhyphen"/>stinately in former ignorance: when it pleased God to shew some light of truth, she made a true confession; I perceiue more then I did before.
+<note place="margin">So did S. <hi>Peter, Act.</hi> 10.34. So S. <hi>Paul,</hi> 1. <hi>Tim.</hi> 11.13. So S. <hi>August.</hi> in his Retract, <hi>Sen. Epist.</hi> 76.</note> Some remaine ignorant; because they haue seene nothing in youth, they will learne nothing in age, and therefore con<g ref="char:EOLhyphen"/>tinue in blindnesse still. <hi>Quidest stultius, quàm quia diu non disceris,
+<pb n="8" facs="tcp:14717:6"/>non discere? Tam diu discendum quàm diu nescias.</hi> What is more fond (saith <hi>Seneca</hi>) then because thou hast not learned of long time, now not to learne at all? So long shouldst thou learne, as thou art ignorant. This woman did not so, she was a Pro<g ref="char:EOLhyphen"/>ficient. Many heare the Word of God, and do not profit by it; but she did profit by it, and professe that she profited: Euen as it pleased God to open the eyes of this wor<g ref="char:EOLhyphen"/>shipfull Lady, to see that which she had not seene, and to declare with thankefulnesse the light which she had receiued.</p>
+            <p>Thirdly, in that she confessed the Lord Iesus Christ to be a Prophet, she maketh a true confession. I will not stand to dispute with <hi>Abulen<g ref="char:EOLhyphen"/>sis,</hi> whether Christ were a Prophet or no; for I haue made it plaine here in my ordinary exercises, that Christ was a Prophet, and more then a Prophet: he was the Prophet, the more includeth the lesse. This
+<pb n="9" facs="tcp:14717:6"/>woman commeth to her know<g ref="char:EOLhyphen"/>ledge by degrees; after this, she came to further knowledge of Christ, as that he was the Messias, verse 9. the great Prophet of whom <hi>Moses</hi> saith,
+<note place="margin">
+                  <hi>Deu.</hi> 1<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.15.1<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>A Prophet shall the Lord raise vp vnto you like vnto me, him shall yee heare: for it shall come to passe, that the soule that heareth not that Prophet shall be rent from among you.</hi> This Commination, this Threatning, is against them that will not heare the great Prophet, Iesus Christ. Thus much for the first de<g ref="char:EOLhyphen"/>gree of her conuersion.</p>
+            <p>The second degree wherein shee profiteth in Christian Religion, is, in that to cleare her conscience from the Cloud of dubitation, she obiecteth to Iesus Christ, and saith: <hi>Our Fathers worshipped in this Moun<g ref="char:EOLhyphen"/>taine; but you say, Ierusalem was the place where men ought to wor<g ref="char:EOLhyphen"/>ship.</hi> Here is the obiection: shee leaueth it to the wisedome of Ie<g ref="char:EOLhyphen"/>sus Christ, concerning the truth of
+<pb n="10" facs="tcp:14717:7"/>the diuers opinions that were be<g ref="char:EOLhyphen"/>tweene her, and the Iewes, she lea<g ref="char:EOLhyphen"/>ueth that to Christ, to determine and set downe in his iust Iudge<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Here is great constancy in this Conuert: first, in that shee tar<g ref="char:EOLhyphen"/>rieth by Christ, till shee were ful<g ref="char:EOLhyphen"/>ly instructed; and doth not goe, as soone as she met with a Prophet: she doth not run into the towne (as afterward she did) to tell the peo<g ref="char:EOLhyphen"/>ple whom she had seene, and what she had heard; but she first seeketh to heale her owne conscience: this sheweth great patience and pru<g ref="char:EOLhyphen"/>dence in this Conuert. Besides, shee sheweth, shee hath a care of her soule more then her body: shee came to draw water, but hauing met with the Prophet, and more then a Prophet, she thinketh no longer of the Terrestiall water, but of the Spirituall and Celestiall; and therefore mooueth a question of Religion: hauing a Prophet, shee
+<pb n="11" facs="tcp:14717:7"/>maketh vse of his presence, and gifts; mooueth a controuersie to him, that could well determine it. This controuersie was not concer<g ref="char:EOLhyphen"/>ning God himselfe; for both par<g ref="char:EOLhyphen"/>ties, the Iewes and Samaritans were resolued, that there was but one true God: secondly, that this God appeared to the Patriarchs, and that this true God was to bee worshipped with inward and out<g ref="char:EOLhyphen"/>ward worship; this was not the controuersie: but the question was, of the place where God was to bee worshipped; concerning that, there were two opinions, the one of the Samaritans, and the other of the Iewes, both which this woman propoundeth distinctly: <hi>Our fa<g ref="char:EOLhyphen"/>thers</hi> (saith she) <hi>worshipped in this Mountaine; and you</hi> (that are Iewes) <hi>say, Ierusalem is the place.</hi> Here she setteth downe who were the two parties, and which were the places: The parties, the Samari<g ref="char:EOLhyphen"/>tans, and the Iewes; the places, the
+<pb n="12" facs="tcp:14717:8"/>Mountaine <hi>Geresim,</hi> and <hi>Ierusalem.</hi> She concealeth not the Argument which both vse; the Argument of the Samaritan: <hi>Our fathers worship<g ref="char:EOLhyphen"/>ped in this Mountaine;</hi> the Argu<g ref="char:EOLhyphen"/>ment of the Iewes, <hi>Ierusalem is the place where they should worship:</hi> so she doth propound these points to the consideration of our Sauiour Iesus Christ. I will not stand to describe the diuersity of dispositions of the Iewes and Samaritans, nor speake much of the place of Mount <hi>Gere<g ref="char:EOLhyphen"/>sim,</hi> and <hi>Ierusalem.</hi> I am not igno<g ref="char:EOLhyphen"/>rant that the Scriptures and <hi>Iosephus</hi> affoord diuers obseruations of both places. But one thing concer<g ref="char:EOLhyphen"/>ning Mount <hi>Geresum</hi> is remarke<g ref="char:EOLhyphen"/>able; that besides that it was the place that the Patriarks worshipped in, it was that Mountaine in which the blessings were pronounced: therefore if we respect any place for holinesse and antiquity, this is the place, in the Samaritans opinion. She bringeth her Argument, that
+<pb n="13" facs="tcp:14717:8"/>seeing the Patriarks worshipped here, the Mount <hi>Geresim</hi> was bet<g ref="char:EOLhyphen"/>ter then the Iewes <hi>Ierusalem.</hi> And marke how she doth two things: First, she doth insist and build her selfe vpon the authority of the Fa<g ref="char:EOLhyphen"/>thers: Secondly, she extenuates the authority of the Iewes, with, <hi>Ye say, Ierusalem is the place:</hi> which was a strange kinde of course of the Sa<g ref="char:EOLhyphen"/>maritans; they extolled the inferi<g ref="char:EOLhyphen"/>our and weaker Argument, and extenuated the better, which was built vpon the Scriptures: she am<g ref="char:EOLhyphen"/>plifieth the authority of the Fathers, which she proposeth, and opposeth, and postposeth; and diminisheth the authority of the Scriptures, which was for the Iewes. But Ie<g ref="char:EOLhyphen"/>sus Christ our Sauiour doth sharp<g ref="char:EOLhyphen"/>ly say, in way of reprehension, <hi>Ye worship ye know not what:</hi> We know what we worship, <hi>Saluation is of the Iewes;</hi> the Iewes had the Word of God, for God reserued the choise of the place of his worship to him<g ref="char:EOLhyphen"/>selfe,
+<pb n="14" facs="tcp:14717:9"/>&amp; left it not to men to chuse, as appeareth in <hi>Deut.</hi> 12.11, 14. in these words; <hi>The place which the Lord your God shall chuse:</hi> which place was Ierusalem, after the Arke was remoued from <hi>Silo;</hi> where it continued, till God by miracle and speciall reuelation of his glory, esta<g ref="char:EOLhyphen"/>blished the Temple at Ierusalem to be the place of his Worship, as ap<g ref="char:EOLhyphen"/>peareth euidently, 2. <hi>Chron.</hi> 6. and 7. chapters, at large.</p>
+            <p>Therefore the IEes had the ex<g ref="char:EOLhyphen"/>presse warrant of Gods Will and his Word for the place of their wor<g ref="char:EOLhyphen"/>ship, and Religion; which was a better ground &amp; foundation, then could be put off and slighted with a <hi>(Vos dicitis:)</hi> for not onely the Iewes said it, but God himselfe had said it, and established it. But I make haste, because of the Time. I would note to you, the error that seduced her, was, to insist altogether vpon this place, though it had bin a good and holy place other<g ref="char:EOLhyphen"/>wise:
+<pb n="15" facs="tcp:14717:9"/>For after the Lord had esta<g ref="char:EOLhyphen"/>blished Ierusalem, it was no good Argument to presse the fathers ex<g ref="char:EOLhyphen"/>amples; after God had by his open approbation expressed his choyse, she should not haue opposed the authority of the fathers, against the Father of fathers. This was an er<g ref="char:EOLhyphen"/>rour to neglect that which God <hi>(A quo omnis paternitas in Coelo &amp; Ter<g ref="char:EOLhyphen"/>ra,</hi>
+               <note place="margin">Ephes. 3.15.</note> of whom all fatherhood is in heauen and earth) and amplifie that which the fathers said or did. This the aduersaries of the Gospell doe, vnder pretence of the like authori<g ref="char:EOLhyphen"/>ty and argument. This woman sup<g ref="char:EOLhyphen"/>posed Christ would giue sentence either against her, or against the Iewes; so that eyther Mount <hi>Ge<g ref="char:EOLhyphen"/>risim,</hi> or <hi>Ierusalem,</hi> should be ap<g ref="char:EOLhyphen"/>pointed for the only place of wor<g ref="char:EOLhyphen"/>ship: for shee was perswaded, that true Religion was to be fixed to some place, and but to one place; but which that place was, whether the one or the other, of that she de<g ref="char:EOLhyphen"/>sireth
+<pb n="16" facs="tcp:14717:10"/>resolution. Our blessed Sa<g ref="char:EOLhyphen"/>uiour according to his diuine wise<g ref="char:EOLhyphen"/>dome answereth (as after yee shall vnderstand) contrary to her expectation: That the exercises of Religion were to be vsed in other places, then Ierusalem, or that Mountaine.</p>
+            <p>The Argument of such an<g ref="char:EOLhyphen"/>tiquity maketh a great shew, but is neither any essentiall marke of the Church, nor any proper note of the Truth: not essentiall, because the Church was in the beginning a true Church without it; neither proper, for that the Heathens and Ethnicks vrged it against Christi<g ref="char:EOLhyphen"/>ans: therefore solely, and by it selfe, it sufficeth not to prooue the Truth.</p>
+            <p>For the Ethnicks,
+<note place="margin">
+                  <hi>In Epist. ad The<g ref="char:EOLhyphen"/>odosium.</hi> And <hi>Ambros. Epist.</hi> 30. <hi>lib.</hi> 31</note>
+               <hi>Symachus</hi> saith, <hi>Si longa aetas authoritatem religionibus conciliat, seruanda est <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot seculis fides, &amp; sequendi sunt nobis parent<gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> se<g ref="char:EOLhyphen"/>cuti sunt felicitur suos;</hi> If (saith he) long age procure to Religion au<g ref="char:EOLhyphen"/>thority,
+<pb n="17" facs="tcp:14717:10"/>we are to follow those pa<g ref="char:EOLhyphen"/>rents, which happily did imitate theirs. And <hi>Lactantius</hi> saith,
+<note place="margin">
+                  <hi>L<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctan</hi> 2. <hi>lib. Institut. dium. cap</hi> 6.</note>
+               <hi>Tanta est Authoritas vetustatis, vt inquirere in eam scelus esse ducant;</hi> So great is the authority of antiquity (with the Heathen, saith <hi>Lactantius</hi>) that they thinke it great wickednesse to make any question of it.</p>
+            <p>
+               <hi>Xauerius</hi> the Iesuite,
+<note place="margin">
+                  <hi>Xauerius lib.</hi> 4 <hi>Epist. Acosta de In<g ref="char:EOLhyphen"/>dor. Salute. lib.</hi> 2. <hi>cap.</hi> 18.</note> and <hi>Acosta</hi> confesse, That the Indian Heathen haue no greater impediment to hinder them from receiuing Chri<g ref="char:EOLhyphen"/>stian Religion, then the Argument of their ancestors, and custome: So that this Argument hath been and is common to ancient and modern Pagans and Ethnicks. <hi>Ambrose, Au<g ref="char:EOLhyphen"/>gustine,</hi> and <hi>Arnobius,</hi> were wont to answer, That Religion was not to be esteemed by antiquity, but by verity, which is the life and soule of Antiquity; without which, An<g ref="char:EOLhyphen"/>tiquity is but a dead carcasse: for that is true Antiquity, that respect<g ref="char:EOLhyphen"/>eth the ancient of dayes, <hi>Dan.</hi> 7.13.</p>
+            <pb n="18" facs="tcp:14717:11"/>
+            <p> Our Sauiour Christ,
+<note place="margin">Mat. 19.3.</note> in the que<g ref="char:EOLhyphen"/>stion of Diuorce, reuoketh the Pha<g ref="char:EOLhyphen"/>rises, (pretending Antiquity from <hi>Moses</hi> Authority) to the first Insti<g ref="char:EOLhyphen"/>tution; <hi>Abinitio non fuit sic,</hi> From the beginning it was not so.</p>
+            <p>In questions therefore of faith, we must not iudge by a later pre<g ref="char:EOLhyphen"/>scription, but reduce them to the Scriptures, which are most ancient, and there seeke out the certaine truth.</p>
+            <p>In <hi>Ezechiel,</hi>
+               <note place="margin">Ezech. 20.18, 19.</note> God forbiddeth his people to follow their Idolatrous fathers statutes, and commandeth them to walke in his Precepts, and obserue his Iudgements.</p>
+            <p>The Fathers were wont to ap<g ref="char:EOLhyphen"/>peale to such Antiquity, as was ioy<g ref="char:EOLhyphen"/>ned with truth.</p>
+            <p>
+               <hi>Ignatius</hi> saith,
+<note place="margin">
+                  <hi>Ignatius Epist.</hi> 6. <hi>qua est ad Philadelph. Iustin. apolog.</hi> 2</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Iesus Christus mihi pro ar<g ref="char:EOLhyphen"/>chiuis est;</hi> Iesus Christ is my Anti<g ref="char:EOLhyphen"/>quity. <hi>Iustin</hi> saith, <hi>Consuetudinem veritati posthabere</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>esse,</hi> To pre<g ref="char:EOLhyphen"/>ferre Custome before Truth, is
+<pb n="19" facs="tcp:14717:11"/>madnesse. <hi>Tertullian,</hi>
+               <note place="margin">
+                  <hi>Tert. Apol. con<g ref="char:EOLhyphen"/>tra gent. c.</hi> 47.</note>
+               <hi>Sine diuina Li<g ref="char:EOLhyphen"/>teratura nullius momenti esse antiqui<g ref="char:EOLhyphen"/>tatē;</hi> Without diuine Literature, an<g ref="char:EOLhyphen"/>tiquity is of no moment. <hi>Antiquior omnibus veritas ni fallor;</hi> The Truth,
+<note place="margin">
+                  <hi>Idem contra Mare. cap.</hi> 5.</note> (saith <hi>Tertul.</hi>) is more ancient then all, except I mistake it. The same Fa<g ref="char:EOLhyphen"/>ther giueth this rule;
+<note place="margin">
+                  <hi>Tert. de veland, virg. cap.</hi> 1.</note>
+               <hi>Id verius quod prius, id prius quod ab initio, id ab ini<g ref="char:EOLhyphen"/>tis quod ab Apostolis.</hi> Againe, in ano<g ref="char:EOLhyphen"/>ther place hee saith: <hi>Veritati nemo praescribere potest; non spacium tempo<g ref="char:EOLhyphen"/>rum, non patrocinia personarū, non pri<g ref="char:EOLhyphen"/>uilegia Regionum:</hi> No man can pre<g ref="char:EOLhyphen"/>scribe against the truth; not space of times, not patronage of persons, nor priuiledge of Regions.</p>
+            <p>
+               <hi>Carolus Sigonius</hi> speaketh of our case in this Text,
+<note place="margin">
+                  <hi>Sigonius de Re<g ref="char:EOLhyphen"/>pub.</hi> Heb. <hi>lib.</hi> 2. <hi>cap.</hi> 6.</note>
+               <hi>Eligebat Deus (inquit) duas vrbes cultus sui;</hi> Silo <hi>in</hi> Samaria, <hi>&amp;</hi> Ierusalem <hi>in</hi> Iudea: God chose (saith he) two Cities of his worship; <hi>Silo</hi> in <hi>Samaria,</hi> and <hi>Ierusalem</hi> in <hi>Iudea:</hi> In that, saith he, he placed his Tabernacle; in this, founded his Temple: reiecting
+<pb n="20" facs="tcp:14717:12"/>
+               <hi>Silo,</hi> he loued <hi>Ierusalem. Samaria,</hi> neuerthelesse challenged the praise of diuine worship to it selfe, be<g ref="char:EOLhyphen"/>cause that the Name of GOD was first there called vpon. The Iewes contrariwise drew that dig<g ref="char:EOLhyphen"/>nity to themselues; God did pre<g ref="char:EOLhyphen"/>ferre <hi>Sion,</hi> that is to say, <hi>Ierusalem,</hi> before <hi>Silo.</hi>
+            </p>
+            <p>
+               <hi>Iansenius</hi> saith,
+<note place="margin">Cornel. Iansen. in hunc Textum.</note> That this Samari<g ref="char:EOLhyphen"/>tan woman contended for the an<g ref="char:EOLhyphen"/>tiquity of the place of diuine wor<g ref="char:EOLhyphen"/>ship, and obiected the example of <hi>Abraham</hi> &amp; the Patriarks; the Iewes contrariwise defended their wor<g ref="char:EOLhyphen"/>ship, by the authority of the Pro<g ref="char:EOLhyphen"/>phets, and the diuine Word: The Samaritans seemed to themselues, to insist in the steppes of Anti<g ref="char:EOLhyphen"/>quitie.</p>
+            <p>To conclude, Saint <hi>Hierome</hi> saith,
+<note place="margin">
+                  <hi>Hierom in</hi> Ier. 9</note>
+               <hi>Noc parentum, nec maiorum, error sequendus est, sed authoritas Scripturarum,</hi>
+               <note place="margin">
+                  <hi>Arnob. Contra gent. lib.</hi> 2.</note>
+               <hi>&amp; Dei docentis im<g ref="char:EOLhyphen"/>perium. Arnobius</hi> saith, <hi>Authoritas non tempore aestimanda sed numine;</hi>
+               <pb n="21" facs="tcp:14717:12"/>We must not esteeme Authoritie (sayth <hi>Arnobius</hi>) by Time, but by Diuine direction.</p>
+            <p>And so much concerning this Argument, and pretext of Anti<g ref="char:EOLhyphen"/>quitie.</p>
+            <p>For as concerning true Anti<g ref="char:EOLhyphen"/>quitie, which ought to bee redu<g ref="char:EOLhyphen"/>ced to the Propheticall and A<g ref="char:EOLhyphen"/>postolicall Doctrine, vpon which the Church is builded;
+<note place="margin">Ephes. 2.</note> the Ad<g ref="char:EOLhyphen"/>uersaries of the Gospell, and Main<g ref="char:EOLhyphen"/>tainers of vnwritten Traditions, haue it not at all, in those Cases and Points, wherein they differ from the Professors of the Gos<g ref="char:EOLhyphen"/>pell of Iesus Christ, who called himselfe Truth, and not Cu<g ref="char:EOLhyphen"/>stome, as diuerse of the Fathers obserue.</p>
+            <p>I come to the Resolution, that is, the third generall part, which giueth light to all the rest: Our Sauiour Iesus Christ sayth to the Woman, <hi>Beleeue me, the time com<g ref="char:EOLhyphen"/>meth, that neither in this Mountaine,
+<pb n="22" facs="tcp:14717:13"/>nor Ierusalem, they shall worship the Father.</hi>
+            </p>
+            <p n="1">1. First, In these words our blessed Sauiour first requireth Be<g ref="char:EOLhyphen"/>leefe; <hi>Woman, beleeue me.</hi>
+            </p>
+            <p n="2">2. Secondly, He sheweth and reuealeth the time, and sayth; <hi>The time commeth.</hi>
+            </p>
+            <p n="3">3. Thirdly, He sheweth, That both these Opinions of the Sama<g ref="char:EOLhyphen"/>ritans and the Iewes are to be ab<g ref="char:EOLhyphen"/>rogated; <hi>Neither in this Moun<g ref="char:EOLhyphen"/>taine, nor Ierusalem, they shall wor<g ref="char:EOLhyphen"/>ship the Father.</hi>
+            </p>
+            <p n="4">4. Fourthly, Christ setteth downe an establishment of Truth: They shall not worship inde<g ref="char:EOLhyphen"/>finitely, they shall worship with a speciall and comfortable reso<g ref="char:EOLhyphen"/>lution and reuelation of God the Father in Iesus Christ; <hi>Nei<g ref="char:EOLhyphen"/>ther in this Mountaine, nor Ie<g ref="char:EOLhyphen"/>rusalem, shall they worship the Fa<g ref="char:EOLhyphen"/>ther.</hi>
+            </p>
+            <p n="1">1. Concerning the first point (for I will but point at euery one of
+<pb n="23" facs="tcp:14717:13"/>them, and that shortly, because of time:)</p>
+            <p>It is certaine, whosoeuer will come to God, must first beleeue, that God is. In the eleuenth to the Hebrewes, the Apostle sayth, <hi>Without faith it is impossible to please God:</hi> Therefore Christ requireth faith, and sayth, <hi>Woman, beleeue me;</hi> that is to say, Whatsoeuer the Sa<g ref="char:EOLhyphen"/>maritans say on the one part, and the Iewes say on the other part, (for the Samaritans pretend the Authoritie of the Fathers, and the Iewes alledge the Word of God for the onely place of Worship) yet <hi>Woman, beleeue me:</hi> This know<g ref="char:EOLhyphen"/>ledge is nothing without me; I am a Prophet, <hi>Beleeue me.</hi> It is a good argument: If wee yeeld, that Iesus Christ is a Prophet, we ought to hearken to him; Except we be<g ref="char:EOLhyphen"/>leeue, wee shall not vnderstand: Therefore many vnderstand not, because they beleeue not; Nor doe beleeue, because they pray not vn<g ref="char:EOLhyphen"/>to
+<pb n="24" facs="tcp:14717:14"/>God, to giue those diuine incli<g ref="char:EOLhyphen"/>nations, to beleeue the Truth, the authenticall Truth: Therefore Christ requireth the Woman to beleeue, and vs with her, if we will vnderstand the Truth.</p>
+            <p n="2">2. The second, is the instance, or time, <hi>The time commeth.</hi> This time Christ propoundeth, to the intent, that he would after further instruct the Woman, that he was the true Messias. It is not the su<g ref="char:EOLhyphen"/>perstition of the Samaritan, nor the ceremonies of the Iewes, that are to be perpetuall, for they were both to cease; for all the Sacrifices of the Law ended in the Messias, whom they did (in type and fi<g ref="char:EOLhyphen"/>gure) signifie: therefore, <hi>The time shall come, that they shall neither in this Mountaine, nor Ierusalem</hi> (one<g ref="char:EOLhyphen"/>ly) <hi>worship the Father.</hi> I am not ignorant, that there passed diuers Epistles betweene <hi>Austen</hi> and <hi>Hie<g ref="char:EOLhyphen"/>rome,</hi> of the cessation of this Legall Worship, when it was <hi>Mortua,</hi>
+               <pb n="25" facs="tcp:14717:14"/>dead, when <hi>Mortifera,</hi> deadly: but concerning the time, and those ef<g ref="char:EOLhyphen"/>fects and validitie for that time, they did Christian-like debate of in Charitie; but not of the vse and continuance of them for e<g ref="char:EOLhyphen"/>uer.</p>
+            <p n="3">3. The third thing that Christ teacheth in this third part, is, That both the Opinions of the Samari<g ref="char:EOLhyphen"/>tans and Iewes, concerning the restraint of the publike Worship of God to one place onely (exclu<g ref="char:EOLhyphen"/>ding others) was now to cease: for neyther of these determinate places of the Samaritans, or Iewes, the Mountaine, or Ierusalem, were to be the Seat and Center of the Church; which now was to bee diffused throughout the whole World, without exception or li<g ref="char:EOLhyphen"/>mitation of particular place.</p>
+            <p>Concerning the Samaritans, albeit they wanted not good in<g ref="char:EOLhyphen"/>tention, yet because they had no foundation or warrant of Gods
+<pb n="26" facs="tcp:14717:15"/>Word, our Sauiour sayth of them afterward, <hi>Ʋers.</hi> 22. <hi>Ʋos adoratis quod nescitis;</hi> You worship you know not what: Wherein hee condemneth them of Ignorance, and so consequently, of Error and Superstition; their Pretext of the Patriarkes example notwithstan<g ref="char:EOLhyphen"/>ding.</p>
+            <p>But concerning the Iewes, there is more difficultie: because our Sauiour sayth of them in the fore-named Verse, <hi>Salus ex Iudaeis est;</hi> Saluation commeth of the Iewes:
+<note place="margin">Rom. 3.2.</note> for they had the Oracles of God committed to them; to them appertayned the Adoption, and the Glory; the Couenants, and the giuing of the Law; the Seruice of God, and the Promises: the Fathers were theirs; of whom, concerning the flesh, Christ came, <hi>who is ouer all,</hi>
+               <note place="margin">Rom. 9 4.</note>
+               <hi>GOD, blessed for euer, Amen:</hi> as the Apostle spea<g ref="char:EOLhyphen"/>keth in the ninth to the Romans, the fourth Verse. Therefore their
+<pb n="27" facs="tcp:14717:15"/>Prerogatiues were great, and ma<g ref="char:EOLhyphen"/>ny; especially, if wee further consider the amplitude of the Pro<g ref="char:EOLhyphen"/>mises made vnto the Church of the Iewes, as they appeare in di<g ref="char:EOLhyphen"/>uerse places of the Word of God: As in these;
+<note place="margin">Psal. 46.6. Psal. 72.17. Psal. 89.30.</note>
+               <hi>God is in the middest of her, therefore shee shall not bee mooued: And her Name shall con<g ref="char:EOLhyphen"/>tinue for euer, as the Sunne; and his Seat shall be as the dayes of Heauen: And this is my Couenant, sayth the Lord, My Spirit which is in thee,</hi>
+               <note place="margin">Esay 59.21.</note>
+               <hi>and my words which I haue put in thy mouth, shall not depart from thy mouth, nor from the mouth of thy Seed, sayth Iehouah, from this time forth for euermore.</hi>
+            </p>
+            <p>Many more Promises there be, of this nature and extent, made to the Church of the Iewes, in the Old Testament: and yet for all these Promises, and Priuiledges, there was a time, when in persecu<g ref="char:EOLhyphen"/>tion the Prophet thought he had beene left alone;
+<note place="margin">1. King. 19.18.</note> albeit Almigh<g ref="char:EOLhyphen"/>tie
+<pb n="28" facs="tcp:14717:16"/>God in his answere vnto him, sheweth, That he had reserued to himselfe seuen thousand, that had not bowed their knees to <hi>Baal,</hi> neyther had their mouthes kissed him.</p>
+            <p>If therefore this Church, which was called and counted the Ioy of the whole Earth; if this faith<g ref="char:EOLhyphen"/>full Citie became a Harlor; if the Iewish Church, by their perfidi<g ref="char:EOLhyphen"/>ousnesse, broke the Couenant that God made with their Fa<g ref="char:EOLhyphen"/>thers: What maruell is it, that our Sauiour in the Gospell pro<g ref="char:EOLhyphen"/>phecyeth of them, That they should be eiected, and cast out of the Kingdome, though they be called Children of the King<g ref="char:EOLhyphen"/>dome?
+<note place="margin">Mat. 8.11.</note>
+               <hi>Filij Regns eijcientur,</hi> The Children of the Kingdome shall be cast out.</p>
+            <p>What assurance then hath any one place in the World (which hath no such Promises) that the Church shall bee fixed and
+<pb n="29" facs="tcp:14717:16"/>tyed to that one place, without feare, or doubt of forfeit, or change? especially, seeing the contrarie is taught in the New Testament, (lest they should seeke an euasion in that distincti<g ref="char:EOLhyphen"/>on, as some doe) by the lamen<g ref="char:EOLhyphen"/>table case of the Church of the Galathians, in the Apostles owne time, and the most of the Chur<g ref="char:EOLhyphen"/>ches by them planted, afterward fallen: and likewise, by the care<g ref="char:EOLhyphen"/>full Admonition of the Apostle to the Romans,
+<note place="margin">Rom. 1.8.</note> whose faith was published throughout the whole World; to take heed,
+<note place="margin">Rom. 11.20, 21</note> That seeing God spared not the Naturall Bran<g ref="char:EOLhyphen"/>ches of the true Oliue, lest hee spare not them which were Bran<g ref="char:EOLhyphen"/>ches of the wild Oliue: and there<g ref="char:EOLhyphen"/>fore wished them, not to bee high minded; but rather, to feare.</p>
+            <p>And so much concerning the Opinion of this Topicall, Typi<g ref="char:EOLhyphen"/>call,
+<pb n="30" facs="tcp:14717:17"/>or Locall Religion and Wor<g ref="char:EOLhyphen"/>ship of God; which our Sauiour sheweth to be fully abrogated, by his Comming: so that now Christ <hi>hath made both one,</hi>
+               <note place="margin">Ephes. 2.14.</note>
+               <hi>and hath bro<g ref="char:EOLhyphen"/>ken downe the middle wall of Par<g ref="char:EOLhyphen"/>tition betweene vs;</hi> and gaue equall Commission to all and euerie of his Apostles, to preach the Gospell to all Nations, to baptize them, and to teach them to obserue all things whatsoeuer hee commaun<g ref="char:EOLhyphen"/>ded them: without restriction or limitation of any one Place, or dependance vpon any one Per<g ref="char:EOLhyphen"/>son.</p>
+            <p>And this is the true sence of the Church Catholike, or Vniuer<g ref="char:EOLhyphen"/>sall; howsoeuer some doe arro<g ref="char:EOLhyphen"/>gate that Name or Title to one Church, more then to the rest, contrarie to the truth of this Doc<g ref="char:EOLhyphen"/>trine.</p>
+            <p n="4">4. The fourth point, the time suffereth me not to insist vpon:
+<pb n="31" facs="tcp:14717:17"/>which is, That Christ doth not indefinitely set downe, that they shall worship; but definitely, how they shall worship, with a speci<g ref="char:EOLhyphen"/>all and comfortable Reuelation of God, as a Father in Christ Iesu.</p>
+            <p>Which kinde of Knowledge of God, differeth from the Pa<g ref="char:EOLhyphen"/>gans and Ethnicks; that rest not in One, but imagined a Plurali<g ref="char:EOLhyphen"/>tie and Multiplicitie of Gods: And from the Iewes and Turkes; which acknowledge One true and onely God, but not the Trinitie of Persons, nor the Office of Mediatorship of Iesus Christ: Without which,
+<note place="margin">Iohn 17.3.</note> Eter<g ref="char:EOLhyphen"/>nall Life cannot bee attayned; Neyther can there bee any true and comfortable apprehen<g ref="char:EOLhyphen"/>sion of God, as a Father, nor any assurance of our Adopti<g ref="char:EOLhyphen"/>on, as his Sonnes, but by Christ.</p>
+            <pb n="32" facs="tcp:14717:18"/>
+            <p> But, as I sayd, the time permits mee not to stand vpon this last Point.</p>
+            <p>THus haue I runne ouer (as the shortnesse of the Time, and my other Occasions would giue mee leaue) this part of the Dia<g ref="char:EOLhyphen"/>logue and Dispute: Wherein you haue heard, how our Sauiour, the Great Shepheard of the Sheepe, sought to reclayme and call home this wandering and straying Sheepe, this Samaritan to his Fould, to his Church; from Ignorance and Error, where<g ref="char:EOLhyphen"/>in shee had long liued and con<g ref="char:EOLhyphen"/>tinued, to the right way of Faith, and the Light of his Hea<g ref="char:EOLhyphen"/>uenly Truth.</p>
+            <pb n="33" facs="tcp:14717:18"/>
+            <p> Let vs learne by this Exam<g ref="char:EOLhyphen"/>ple, not to disdaine nor neglect them, that haue or doe goe a<g ref="char:EOLhyphen"/>stray: but acknowledge with the Prophet, in the 119. Psalme, <hi>I haue gone astray, like a Sheepe that is lost;</hi> and pray (as hee doth there) <hi>O seeke thy seruant, &amp;c.</hi>
+            </p>
+            <p>The Prophet <hi>Esay</hi> extendeth this Confession as the Voyce of the whole Church, saying;
+<note place="margin">Esay 53.6.</note>
+               <hi>Wee haue all gone astray, euery one his owne way.</hi> Which Saint <hi>Peter</hi> repeateth: and addeth;
+<note place="margin">1. Pet. 2.25.</note>
+               <hi>But now yee are returned to the Shepheard of your Soules.</hi>
+            </p>
+            <p>Lamentable is the Error; but comfortable, the returne to God: The Angels of Heauen reioyce at the Conuersion of euery sin<g ref="char:EOLhyphen"/>ner that repenteth; as Christ sayth.</p>
+            <p>Now therefore, seeing wee haue an Example of this Con<g ref="char:EOLhyphen"/>uersion,
+<pb n="34" facs="tcp:14717:19"/>not onely in this Text of the Woman of Samaria, but likewise in the Person of this Worshipfull Lady (vpon whose Funerall wee now attend) <hi>Let him that seemeth to stand, take heede lest hee fall,</hi> according to the Apostolicall admonition; Let them that haue runne astray, learne to returne, and repent, by these Examples.</p>
+            <p>Let vs giue humble and hear<g ref="char:EOLhyphen"/>tie thankes to Almightie God, for his Mercie and Grace to those that are penitent: vvhome, as Saint <hi>Augustine</hi> sayth, hee cea<g ref="char:EOLhyphen"/>seth not to call; and in cal<g ref="char:EOLhyphen"/>ling, to instruct; and in in<g ref="char:EOLhyphen"/>structing, to perseuere; and in perseuerance, to Crowne with Glorie.</p>
+            <p>Let vs beseech God, that the Euill, which hath beene in any, wee may carefully auoyd; the Good, wee may learne dili<g ref="char:EOLhyphen"/>gently
+<pb n="35" facs="tcp:14717:19"/>to imitate, and follow, while vvee are heere Stran<g ref="char:EOLhyphen"/>gers and Pilgrims in this Vale of Misery:
+<note place="margin">2. Tim. 4.7, 8.</note> that after wee haue fought the good Fight, runne our Race, finished our Course, and kept the Faith; wee may receiue the Crowne of Righ<g ref="char:EOLhyphen"/>teousnesse: which the Righteous Iudge shall giue at that Day, not onely to those that are alrea<g ref="char:EOLhyphen"/>die gone before vs, but al<g ref="char:EOLhyphen"/>so to all those that loue his ap<g ref="char:EOLhyphen"/>pearing.</p>
+            <p>Now therefore let vs pray, &amp;c.</p>
+            <p>AS wee send vp Prayers vnto GOD, for the Prosperous and Flourishing Estate of his whole Church Vniuersall, and euery Member of the same: So in particular, wee offer vp the sacrifice of Praise and Thanks<g ref="char:EOLhyphen"/>giuing
+<pb n="36" facs="tcp:14717:20"/>vnto our mercifull and gra<g ref="char:EOLhyphen"/>cious God, for looking vpon the Blind and Ignorant Estate of this Worshipfull Lady; whose Funerall, of worthy Memory, wee are come together, at this present, Religiously to Cele<g ref="char:EOLhyphen"/>brate.</p>
+            <p>Touching her ciuill manner of liuing, and carriage toward all per<g ref="char:EOLhyphen"/>sons:</p>
+            <p>As I vnderstand by those who were her most Familiars, She hath left behinde her many singular ar<g ref="char:EOLhyphen"/>guments of great commendations, for her wisedome in the same: Es<g ref="char:EOLhyphen"/>pecially, for that Amiable and Reuerent Spowsall duety, where<g ref="char:EOLhyphen"/>with Shee did alwayes prose<g ref="char:EOLhyphen"/>cute Her most Worshipfull Hus<g ref="char:EOLhyphen"/>band; for Her Louing, Chri<g ref="char:EOLhyphen"/>stian, and Vertuous Care, in the education of Her Children; and for that laudable Concord, and neighbourly Affection, shee de<g ref="char:EOLhyphen"/>lighted
+<pb n="37" facs="tcp:14717:20"/>to entertaine with her neighbours.</p>
+            <p>Concerning her outward Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>It is true, She was euer hi<g ref="char:EOLhyphen"/>therto so seduced and carried a<g ref="char:EOLhyphen"/>way, partly by her owne igno<g ref="char:EOLhyphen"/>rance, and partly by the decei<g ref="char:EOLhyphen"/>uing counsells of some of her Kindred, that She was brought from the belieuing of the Truth, to giue place vnto Errour, and false Doctrine: Vntill it pleased God (who hath his owne de<g ref="char:EOLhyphen"/>signed meanes, and times, of bringing home his wandering Sheepe) to visite Her with this corporall Disease, whereinto it hath pleased Him, in his mer<g ref="char:EOLhyphen"/>cy, to take her away; and by the troubles of her Body, so liuely to exercise the Faculties of Her Soule, by making the bright Beames of his Gracious Coun<g ref="char:EOLhyphen"/>tenance, not onely to irradi<g ref="char:EOLhyphen"/>ate
+<pb n="38" facs="tcp:14717:21"/>but also powerfully to beate vpon her heart: that be<g ref="char:EOLhyphen"/>fore it pleased his Maiesty to close vp the eyes of her Bo<g ref="char:EOLhyphen"/>dy, the eyes of her Soule were illuminated so cleerely, that Shee did see that Glory which before was hid from her; and did imbrace most gladly those eternall loyes, which hither-to Shee did, for so long time, ignorantly cast behinde Her Backe.</p>
+            <p>Of the which comfortable things, I am informed not onely by many priuate faithfull Wit<g ref="char:EOLhyphen"/>nesses, but also by the true Te<g ref="char:EOLhyphen"/>stimony of a reuerend Bishop, written and confirmed by his seale of Office, to this effect: Who testifies, That in signe and token of her willing and ioyfull con<g ref="char:EOLhyphen"/>uersion, Shee had purposed (if so it had pleased God to haue prolonged her dayes) this Sab<g ref="char:EOLhyphen"/>bath
+<pb n="39" facs="tcp:14717:21"/>last, being the fift of Decem<g ref="char:EOLhyphen"/>ber, to haue beene present in this Church with her Worshipful Hus<g ref="char:EOLhyphen"/>band, at the celebrating of the Supper of onr Lord, and with him, to haue beene partaker of the same.</p>
+            <p>But God, who is onely wise, disposing otherwayes, in his mercy, hath put an end vnto this Her perishing life; and in stead of communicating with him in his Supper, hath vnited and conioyned Her vnto Him, by a straiter and neerer Coniuncti<g ref="char:EOLhyphen"/>on.</p>
+            <p>Which should put euery one of vs in minde of our Mortali<g ref="char:EOLhyphen"/>ty; and stirre vs vp, by for<g ref="char:EOLhyphen"/>getting those things which bee behinde vs, to aspire vnto that Celestiall Ierusalem: That as Shee is made already (as we as<g ref="char:EOLhyphen"/>suredly hope) a Glorious Citizen of the same; so we hauing finished
+<pb n="40" facs="tcp:14717:22"/>our course here, may be made Par<g ref="char:EOLhyphen"/>takers of this high and excellent dignity, promised vnto vs in Iesus Christ our Lord. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:14717:22"/>
+            <pb facs="tcp:14717:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
